@@ -1,6 +1,3 @@
-//comandos
-left = keyboard_check_pressed(ord("A"));
-right = keyboard_check_pressed(ord("D"));
 
 //coordenadas (n sei como q vou usar ainda)
 /*
